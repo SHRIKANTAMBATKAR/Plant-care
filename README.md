@@ -20,7 +20,11 @@ This project uses **Convolutional Neural Networks (CNNs)** with the **PlantVilla
 ---
 
 ## 📁 Project preview
-![Screenshot 2025-06-06 012606](https://github.com/user-attachments/assets/961f1883-df98-4a45-8ee2-9b693943b2da)
+![Screenshot 2025-06-06 012506](https://github.com/user-attachments/assets/8af00d6e-f771-4800-b7fb-5bab2a9ed34e)![Screenshot 2025-06-06 012528](https://github.com/user-attachments/assets/003ce159-225e-4cd7-96ba-2b072558f5b4)![Screenshot 2025-06-06 012541](https://github.com/user-attachments/assets/f7219787-670e-4fa8-befe-52c324dcb04c)![Screenshot 2025-06-06 012606](https://github.com/user-attachments/assets/75774e67-50d1-4271-983b-042b0faa213b)
+
+
+
+
 
 
 ## 🛠️ How to Install and Run in VS Code
@@ -46,7 +50,7 @@ Go to File > Open Folder... and select the cloned project
 
 Create a Virtual Environment
 Open the terminal in VS Code:
-
+```bash
 python -m venv venv
 Activate the Virtual Environment
 
