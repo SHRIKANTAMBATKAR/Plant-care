@@ -12,8 +12,6 @@ This project uses **Convolutional Neural Networks (CNNs)** with the **PlantVilla
 - 🖼️ Upload crop/leaf images (JPEG, PNG)
 - 🤖 Predict plant diseases with confidence score
 - 📋 Disease details including description & symptoms
-- 💊 Natural & chemical treatment suggestions
-- 🧪 Soil and crop advisory info
 - 📱 Fully responsive design (mobile & desktop)
 - 🔁 Easy to run locally (Flask + TensorFlow + HTML/CSS)
 
